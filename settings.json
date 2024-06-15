@@ -16,9 +16,9 @@
    "native":"ca-app-pub-3940256099942544/2247696110",
     "unity":"5615861",
   "admob_id": "ca-app-pub-3940256099942544~3347511713",
-  /////////////////////
   "version": 1 ,
   "update_url": "https://youssef-apps.com/"
+  "show_update_cancel": 0,
 
 
 
