@@ -1,7 +1,7 @@
 {
     "version":10,
   "update_url": "https://youssef-apps.com/",
-  "show_update_cancel": 0
+  "show_update_cancel": 0,
   "points_after_rewardAs": 1,
   "ads_network_num": 0,
   "stop_network":3,
@@ -18,7 +18,7 @@
   "open_app":"ca-app-pub-3940256099942544/9257395921",
    "native":"ca-app-pub-3940256099942544/2247696110",
     "unity":"5615861",
-  "admob_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_id": "ca-app-pub-3940256099942544~3347511713"
 
 
 
