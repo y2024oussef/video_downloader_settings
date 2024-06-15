@@ -1,6 +1,7 @@
 {
   "points_after_rewardAs": 1,
   "ads_network_num": 0,
+  "stop_network":3,
   "show_hide_splash_open_app":1,
   "show_hide_public_open_app":1,
   "num_show_public_open_app":1,
@@ -12,7 +13,9 @@
  "interstitial":"ca-app-pub-3940256099942544/1033173712",
   "reward":"ca-app-pub-3940256099942544/5224354917",
   "open_app":"ca-app-pub-3940256099942544/9257395921",
-    "native":"ca-app-pub-3940256099942544/2247696110",
+   "native":"ca-app-pub-3940256099942544/2247696110",
+    "unity":"5615861",
+
 
 
 
