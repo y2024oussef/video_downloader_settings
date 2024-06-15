@@ -7,7 +7,14 @@
   "show_hide_banner":1,
   "show_hide_native":1,
   "show_hide_interstitial":1,
-  "show_hide_reward":1
+  "show_hide_reward":1,
+  "banner":"",
+ "interstitial":"",
+  "reward":"",
+  "open_app":"",
+    "native":""
+
+
 
 
 
