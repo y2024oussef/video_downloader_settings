@@ -9,6 +9,9 @@
     "show_hide_native": 1,
     "show_hide_interstitial": 1,
     "show_hide_reward": 1,
+    "version": 1,
+    "clicks": 1,
+    "show_update_cancel": 0,
     "admob_id": "ca-app-pub-3940256099942544~3347511713",
     "banner": "ca-app-pub-3940256099942544/9214589741",
     "interstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -16,8 +19,5 @@
     "native": "ca-app-pub-3940256099942544/1044960115",
     "open_app": "ca-app-pub-3940256099942544/9257395921",
     "unity": "5615861",
-    "version": 1,
-    "clicks": 1,
-    "update_url": "https://youssef-apps.com/",
-    "show_update_cancel": 0
+    "update_url": "https://youssef-apps.com/"
 }
