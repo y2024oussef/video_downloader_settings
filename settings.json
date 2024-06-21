@@ -7,7 +7,7 @@
     "num_show_public_open_app": 1,
     "show_hide_banner": 1,
     "show_hide_native": 1,
-    "show_hide_interstitial": 0,
+    "show_hide_interstitial": 1,
     "show_hom_interstitial": 0,
     "show_hide_reward": 1,
     "version": 15,
