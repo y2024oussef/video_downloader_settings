@@ -21,5 +21,7 @@
     "native": "ca-app-pub-3940256099942544/1044960115",
     "open_app": "ca-app-pub-3940256099942544/9257395921",
     "unity": "5615861",
-    "update_url": "https://youssef-apps.com/"
+    "update_url": "https://youssef-apps.com/",
+        "banner_url": "https://youssef-apps.com/"
+
 }
