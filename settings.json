@@ -6,6 +6,7 @@
     "show_hide_public_open_app": 1,
     "num_show_public_open_app": 1,
     "show_hide_banner": 1,
+    "show_hide_banner_loadBackupAd": 1,
     "show_hide_native": 1,
     "showHideInterstitial": 1,
     "showHomInterstitial": 1,
@@ -22,6 +23,5 @@
     "open_app": "ca-app-pub-3940256099942544/9257395921",
     "unity": "5615861",
     "update_url": "https://youssef-apps.com/",
-        "banner_url": "https://youssef-apps.com/"
-
+    "banner_url": "https://youssef-apps.com/"
 }
